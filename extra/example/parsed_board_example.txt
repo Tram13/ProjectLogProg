@@ -1,0 +1,15 @@
+Board:
+
+[[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(black),type(king)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(black),type(pawn)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)]],
+[[color(white),type(pawn)],[color(none),type(empty)],[color(none),type(empty)],[color(black),type(queen)],[color(none),type(empty)],[color(none),type(empty)],[color(white),type(queen)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(white),type(pawn)],[color(white),type(pawn)],[color(none),type(empty)]],
+[[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)],[color(white),type(king)],[color(none),type(empty)],[color(none),type(empty)],[color(none),type(empty)]]]
+
+SpecialMoves:
+
+[[[color(none),type(empty)],[color(none),type(empty)],[]],
+[[color(none),type(empty)],[color(none),type(empty)],[]]]
